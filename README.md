@@ -1,1 +1,1 @@
-# sasta-calculator
+# calculator
